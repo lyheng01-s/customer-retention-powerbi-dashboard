@@ -1,0 +1,14 @@
+# Power BI temporary/cache files
+*.tmp
+*.bak
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Large optional exports
+*.zip
+*.rar
